@@ -1,5 +1,5 @@
 ## Assignment
-**The output of the assigment is in [Report.md](Report.md)**
+**The output of the assigment is in [PA1_template.md](PA1_template.md)**
 
 
 ## Introduction
