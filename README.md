@@ -45,4 +45,4 @@ dataset.
 
 
 ## Assignment
-The results of this assigment are in [Report.Rmd](Report.Rmd)
+The output of the assigment is in [Report.md](Report.md)
