@@ -1,3 +1,7 @@
+## Assignment
+**The output of the assigment is in [Report.md](Report.md)**
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
@@ -44,5 +48,3 @@ are a total of 17,568 observations in this
 dataset.
 
 
-## Assignment
-The output of the assigment is in [Report.md](Report.md)
